@@ -1,0 +1,32 @@
+{
+  "custom": {
+    "loading": "Loading",
+    "notFound": "Page not found",
+    "details": "Details",
+    "tooltip": "You can always reload your data to obtain fresh, shiny bits from API"
+  },
+  "comments": {
+    "add": "Add comment",
+    "addedSuccesfully": "Your comment has been added",
+    "show": "Show comments",
+    "hide": "Hide comments",
+    "form": {
+      "name": "Name",
+      "body": "Body",
+      "email": "Email",
+      "save": "Save",
+      "cancel": "Cancel"
+    }
+  },
+  "posts": {
+    "add": "Add Post",
+    "addedSuccesfully": "Your post has been added successfully",
+    "removeConfirm": "Are you sure you want to delete this post?",
+    "form": {
+      "title": "Name",
+      "body": "Body",
+      "save": "Save",
+      "cancel": "Cancel"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "custom": {
+    "loading": "Ładowanie",
+    "notFound": "Strony nie znaleziono",
+    "details": "Szczegóły",
+    "tooltip": "Jeśli potrzebujesz, możesz zawsze pobrać nowe dane z API"
+  },
+  "comments": {
+    "add": "Dodaj komentarz",
+    "addedSuccesfully": "Twój komentarz został dodany",
+    "show": "Pokaż komentarze",
+    "hide": "Ukryj komentarze",
+    "form": {
+      "name": "Imię",
+      "body": "Treść",
+      "email": "Email",
+      "save": "Zapisz",
+      "cancel": "Anuluj"
+    }
+  },
+  "posts": {
+    "add": "Dodaj post",
+    "addedSuccesfully": "Twój post został pomyślnie dodany",
+    "removeConfirm": "Czy jesteś pewny że chcesz usunąć wybrany post?",
+    "form": {
+      "title": "Imię",
+      "body": "Treść",
+      "save": "Zapisz",
+      "cancel": "Anuluj"
+    }
+  }
+}

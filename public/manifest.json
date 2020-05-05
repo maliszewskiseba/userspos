@@ -1,0 +1,7 @@
+{
+  "short_name": "usersPosts - crud app",
+  "name": "React app - React, Redux, styled components, formik & another",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff"
+}
